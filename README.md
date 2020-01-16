@@ -7,6 +7,7 @@ Alguns atalhos sagazes :3
 * `Ctrl + :` Comenta as linhas selecionadas
 * `Ctrl + Enter` Inserir linha abaixo
 * `Ctrl + Shift + Enter` Inserir linha acima
+* `Shift + Alt + ↑ / ↓` Copia a linha acima/abaixo
 
 ## Multi-cursor e seleção
 
