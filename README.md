@@ -8,6 +8,8 @@ Alguns atalhos sagazes :3
 * `Ctrl + Enter` Inserir linha abaixo
 * `Ctrl + Shift + Enter` Inserir linha acima
 * `Shift + Alt + ↑ / ↓` Copia a linha acima/abaixo
+* `Ctrl + k + 0` Minimiza (fold) todos os métodos
+* `Ctrl + k + j` Maximiza (unfold) todos os métodos
 
 ## Multi-cursor e seleção
 
